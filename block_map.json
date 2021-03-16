@@ -1,5 +1,14 @@
 [
-  { "id": "stone", "color": []},
-  { "id": "cobblestone", "color": []},
-  { "id": "planks", "color": []}
+  { "id": "stone", "color": [115, 115, 115]},
+  { "id": "stripped_birch_wood", "color": [209, 194, 133]},
+  { "id": "white_concrete", "color": [202, 208, 209]},
+  { "id": "orange_concrete", "color": [204, 89, 1]},
+  { "id": "blue_concrete", "color": [32, 125, 182]},
+  { "id": "yellow_concrete", "color": [220, 160, 19]},
+  { "id": "lime_concrete", "color": [86, 154, 23]},
+  { "id": "pink_concrete", "color": [194, 92, 130]},
+  { "id": "sand", "color": [224, 216, 174]},
+  { "id": "green_concrete", "color": [59, 73, 29]},
+  { "id": "black_concrete", "color": [8,10, 14]},
+  { "id": "brown_concrete", "color": [89, 55, 29]}
 ]

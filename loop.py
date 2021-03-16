@@ -1,4 +1,4 @@
-from .automation_utils import execute_command
+from automation_utils import execute_command
 
 if __name__ == "__main__":
     while True:
