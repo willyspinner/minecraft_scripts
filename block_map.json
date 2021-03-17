@@ -6,9 +6,19 @@
   { "id": "blue_concrete", "color": [32, 125, 182]},
   { "id": "yellow_concrete", "color": [220, 160, 19]},
   { "id": "lime_concrete", "color": [86, 154, 23]},
+
+  { "id": "red_concrete", "color": [102, 24, 24]},
+  { "id": "magenta_concrete", "color": [126, 36, 118]},
+  { "id": "light_gray_concrete", "color": [91, 91, 91]},
+  { "id": "gray_concrete", "color": [45,45,45]},
+
   { "id": "pink_concrete", "color": [194, 92, 130]},
   { "id": "sand", "color": [224, 216, 174]},
   { "id": "green_concrete", "color": [59, 73, 29]},
   { "id": "black_concrete", "color": [8,10, 14]},
-  { "id": "brown_concrete", "color": [89, 55, 29]}
+  { "id": "brown_concrete", "color": [89, 55, 29]},
+  { "id": "stripped_acacia_log", "color": [140, 71, 46]},
+  { "id": "stripped_birch_log", "color": [141, 124, 83]},
+  { "id": "stripped_jungle_log", "color": [110, 91, 53]},
+  { "id": "stripped_warped_stem", "color": [32, 82, 81]}
 ]
